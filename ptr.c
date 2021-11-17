@@ -12,7 +12,7 @@ for(i=n;i>=1;i--)
     }
     for(j=n;j>i;j--)
     {
-        printf("  ");
+        printf("abc");
     }
     for(k=i;k>=1;k--)
     {
